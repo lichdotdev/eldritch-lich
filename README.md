@@ -30,7 +30,7 @@ URL — nothing to download or copy by hand:
 
 1. Open lich and go to **Settings → Appearance**.
 2. Next to **Theme**, click **Import**.
-3. Paste `https://github.com/omartelo/eldritch-lich` and click **Install**.
+3. Paste `https://github.com/lichdotdev/eldritch-lich` and click **Install**.
 4. Pick a variant in the theme picker. The terminal picker defaults to
    **Match app**, so one pick dresses the interface and the terminal panes
    alike — or choose a different variant there if you want them to differ.
