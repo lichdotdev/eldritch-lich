@@ -2,6 +2,7 @@
   "id": "eldritch-dusk",
   "name": "Eldritch Dusk",
   "scheme": "light",
+  "pair": "eldritch",
   "app": {
     "background": "#e2e6e8",
     "foreground": "#1e2029",

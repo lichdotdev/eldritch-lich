@@ -2,6 +2,7 @@
   "id": "eldritch-abyss",
   "name": "Eldritch Abyss",
   "scheme": "dark",
+  "pair": "eldritch-dusk",
   "app": {
     "background": "#171928",
     "foreground": "#d8e6e6",
