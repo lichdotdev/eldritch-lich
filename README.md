@@ -89,6 +89,17 @@ size:
   canvas. Hue and saturation are untouched; Cthulhu and Abyss take the upstream
   values as they are.
 
+### Syntax highlighting
+
+Each variant carries a `syntax` section that colors code in the review, diff and
+file views of `lich native`. It follows the
+[Syntax table](https://github.com/eldritch-theme/eldritch/blob/master/SPEC.md#syntax)
+of the upstream spec, resolved to each variant's palette; where the spec is
+silent (properties, regular expressions, escapes, `self`, units) the role comes
+from the [official VS Code theme](https://github.com/eldritch-theme/vscode). Dusk
+takes the spec's light-variant overrides and the Abyss red, green and cyan,
+like the terminal block.
+
 ### Thanks to
 
 - [omartelo](https://github.com/omartelo) — port author
