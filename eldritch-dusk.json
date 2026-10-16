@@ -107,6 +107,8 @@
     "inserted": "#2dcc82",
     "deleted": "#cc5860",
     "changed": "#b67100",
-    "invalid": "#cc5860"
+    "invalid": "#cc5860",
+    "definition(local(variableName))": "#b67100",
+    "function(standard(variableName))": "#008da8"
   }
 }
