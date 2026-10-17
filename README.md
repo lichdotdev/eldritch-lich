@@ -25,7 +25,7 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 ### Installation
 
-[lich](https://github.com/omartelo/lich) installs a theme repository from its
+[lich](https://github.com/lichdotdev/lich) installs a theme repository from its
 URL — nothing to download or copy by hand:
 
 1. Open lich and go to **Settings → Appearance**.
